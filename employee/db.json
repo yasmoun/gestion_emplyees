@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "yasmine",
+      "lastName": "gannouni",
+      "email": "gannouniyasmine@gmail.com",
+      "dob": "2023-12-13T23:00:00.000Z",
+      "gender": "female",
+      "education": "54477413",
+      "company": "asma",
+      "experience": 4,
+      "package": 2000,
+      "id": 1
+    }
+  ]
+}
